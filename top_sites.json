@@ -43,7 +43,7 @@
   },
   {
     "title": "Twitter",
-    "url": "https://twitter.com/i/hello",
+    "url": "https://twitter.com/",
     "image_url": "images/twitter.com.svg",
     "background_color": "#55acee"
   },
@@ -79,7 +79,7 @@
   },
   {
     "title": "Craigslist",
-    "url": "http://washingtondc.craigslist.org/",
+    "url": "http://craigslist.org/",
     "image_url": "images/craigslist.org.png",
     "background_color": "#000"
   },
@@ -180,8 +180,8 @@
     "background_color": "#067B3"
   },
   {
-    "title": "Google",
-    "url": "https://accounts.google.com/ServiceLogin?service=blogger&hl=en&passive=1209600&continue=https://www.blogger.com/home",
+    "title": "Blogger",
+    "url": "https://www.blogger.com/home",
     "image_url": "images/blogspot.com.png",
     "background_color": "#F7F6EE"
   },
@@ -193,7 +193,7 @@
   },
   {
     "title": "Yelp",
-    "url": "http://yelp.com/visit_captcha?original_url=http%3A%2F%2Fyelp.com%2F&CID=GK",
+    "url": "http://yelp.com/",
     "image_url": "images/yelp.com.png",
     "background_color": "#000"
   },
@@ -241,13 +241,13 @@
   },
   {
     "title": "Microsoftonline",
-    "url": "https://login.microsoftonline.com:443/",
+    "url": "https://login.microsoftonline.com/",
     "image_url": "images/microsoftonline.com.png",
     "background_color": "#78BBC"
   },
   {
     "title": "Microsoft",
-    "url": "http://www.microsoft.com/en-us/",
+    "url": "http://www.microsoft.com/",
     "image_url": "images/microsoft.com.png",
     "background_color": "#78BBC"
   },
@@ -541,7 +541,7 @@
   },
   {
     "title": "VICE",
-    "url": "http://www.vice.com/en_us/",
+    "url": "http://www.vice.com/",
     "image_url": "images/vice.com.png",
     "background_color": "#444"
   },
