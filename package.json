@@ -4,6 +4,7 @@
   "description": "This repo is meant to provide a hand curated set of icons, colors, and titles for use in [Activity Stream](https://github.com/mozilla/activity-streams). It is meant as a temporary solution to ugly data. We should do something much better very soon.",
   "main": "index.js",
   "scripts": {
+    "start": "live-server .",
     "test": "mocha -R spec"
   },
   "repository": {
