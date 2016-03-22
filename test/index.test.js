@@ -21,16 +21,17 @@ describe("top_sites", () => {
         assert.isString(site.url);
         assert.isTrue(validator.isURL(site.url, {require_protocol: true}), `expected ${site.url} to be a valid url`);
       });
-      it("should have an image_url pointing to a .png or .svg image prefixed with images/", () => {
+      it("should have an image_url pointing to a .png or .svg image", () => {
         assert.property(site, "image_url");
         assert.isString(site.image_url);
         assert.match(site.image_url, /\.(png|svg)$/, `expected ${site.image_url} to be a .png or .svg image`);
-        assert.match(site.image_url, /^images\//, `expected ${site.image_url} to be prefixed by images/`);
       });
-      it("should have background color as a hex color", () => {
+      it("should have background color as a hex color which is 4 or 7 characters long", () => {
+        var bgcolor = site.background_color;
         assert.property(site, "background_color");
-        assert.isString(site.background_color);
-        assert.isTrue(validator.isHexColor(site.background_color), `expected ${site.background_color} to be a hex color`)
+        assert.isString(bgcolor);
+        assert.isTrue(validator.isHexColor(bgcolor), `expected ${bgcolor} to be a hex color`)
+        assert.isTrue(bgcolor.length === 4 || bgcolor.length === 7, `expected ${bgcolor} to be 4 or 7 chars`);
       });
     });
   });
