@@ -349,9 +349,9 @@
   },
   {
     "title": "Groupon",
-    "url": "http://www.groupon.com/",
+    "url": "https://www.groupon.com/",
     "image_url": "images/groupon.com.png",
-    "background_color": null
+    "background_color": "#4EA21C"
   },
   {
     "title": "American Express",
