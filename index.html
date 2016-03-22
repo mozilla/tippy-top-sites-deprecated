@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Icons Demo</title>
+  <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+  <script>
+  $(document).ready(function() {
+    $.getJSON('top_sites.json', function(items) {
+      items.forEach(function (item) {
+        $('#top-sites').append(`
+          <div class="site" style="background-color: ${item.background_color};">
+            <img src="${item.image_url}">
+            <a href="${item.url}" class="title">${item.title}</a>
+          </div>
+        `);
+      });
+    });
+  });
+  </script>
+  <style>
+    .site {
+      float: left;
+      height: 96px;
+      margin: 0 20px 20px 0;
+      width: 96px;
+    }
+
+    .site img {
+      height: 32px;
+      width: 32px;
+      fill: #ffffff;
+    }
+
+    .site img path {
+      fill: #ffffff !important;
+    }
+  </style>
+</head>
+<body>
+  <h1>Top Sites</h1>
+  <div id="top-sites"></div>
+</body>
+</html>
