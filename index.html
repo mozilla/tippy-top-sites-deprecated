@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Icons Demo</title>
+  <title>Tippy Top Sites</title>
   <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
   <script>
   $(document).ready(function() {
@@ -15,30 +15,48 @@
           </div>
         `);
       });
+
+      $('img').load(function () {
+        if (this.naturalWidth < 64 && this.src.indexOf('.svg') < 0) {
+          $(this).addClass('too-small');
+        }
+      });
     });
   });
   </script>
   <style>
+    body {
+      font-family: sans-serif;
+    }
     .site {
       float: left;
       height: 96px;
       margin: 0 20px 20px 0;
+      text-align: center;
       width: 96px;
     }
 
     .site img {
       height: 32px;
+      margin-top: 10px;
       width: 32px;
       fill: #ffffff;
     }
 
-    .site img path {
-      fill: #ffffff !important;
+    .site a {
+      color: #555;
+      display: block;
+      margin-top: 10px;
+      text-decoration: none;
+    }
+
+    .too-small {
+      outline: 2px dotted red;
     }
   </style>
 </head>
 <body>
-  <h1>Top Sites</h1>
+  <h1>Tippy Top Sites</h1>
   <div id="top-sites"></div>
 </body>
 </html>
