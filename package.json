@@ -1,0 +1,25 @@
+{
+  "name": "tippy-top-sites",
+  "version": "0.0.0",
+  "description": "This repo is meant to provide a hand curated set of icons, colors, and titles for use in [Activity Stream](https://github.com/mozilla/activity-streams). It is meant as a temporary solution to ugly data. We should do something much better very soon.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchapman/tippy-top-sites.git"
+  },
+  "author": "",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/nchapman/tippy-top-sites/issues"
+  },
+  "homepage": "https://github.com/nchapman/tippy-top-sites#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "validator": "^5.1.0"
+  }
+}
