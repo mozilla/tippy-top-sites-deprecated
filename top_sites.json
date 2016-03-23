@@ -3,133 +3,133 @@
     "title": "Apple",
     "url": "http://www.apple.com/",
     "image_url": "images/apple-com.png",
-    "background_color": "#000"
+    "background_color": "#6d6e71"
   },
   {
     "title": "About",
     "url": "http://www.about.com/",
     "image_url": "images/about-com.png",
-    "background_color": "#E1221E"
+    "background_color": "#FFF"
   },
   {
     "title": "Adobe",
     "url": "http://www.adobe.com/",
     "image_url": "images/adobe-com.png",
-    "background_color": "#F9F9F9"
+    "background_color": "#e22919"
   },
   {
     "title": "Amazon",
     "url": "http://www.amazon.com/",
     "image_url": "images/amazon-com.png",
-    "background_color": "#F9F0E6"
+    "background_color": "#FFF"
   },
   {
     "title": "Amazon Web Services",
     "url": "https://aws.amazon.com/",
     "image_url": "images/amazonaws-com.png",
-    "background_color": "#EEAF25"
+    "background_color": "#FFF"
   },
   {
     "title": "American Express",
     "url": "https://www.americanexpress.com",
     "image_url": "images/americanexpress-com.png",
-    "background_color": "#008DFA"
+    "background_color": "#e0e0e0"
   },
   {
     "title": "AOL",
     "url": "http://www.aol.com/",
     "image_url": "images/aol-com.png",
-    "background_color": "#00ABF4"
+    "background_color": "#e0e0e0"
   },
   {
     "title": "Ask.com",
     "url": "http://www.ask.com",
     "image_url": "images/ask-com.png",
-    "background_color": "#F7EBEC"
+    "background_color": "#cf0000"
   },
   {
     "title": "AT&T",
     "url": "https://www.att.com/",
     "image_url": "images/att-com.png",
-    "background_color": "#DEEBF0"
+    "background_color": "#5ba1ca"
   },
   {
     "title": "Bank of America",
     "url": "https://www.bankofamerica.com",
     "image_url": "images/bankofamerica-com.png",
-    "background_color": "#FAF8F8"
+    "background_color": "#eb3146"
   },
   {
     "title": "Best Buy",
     "url": "http://www.bestbuy.com",
     "image_url": "images/bestbuy-com.png",
-    "background_color": "#235"
+    "background_color": "#003a65"
   },
   {
     "title": "Bing",
     "url": "http://www.bing.com/",
     "image_url": "images/bing-com.png",
-    "background_color": "#008484"
+    "background_color": "#138484"
   },
   {
     "title": "Blogger",
     "url": "https://www.blogger.com/home",
-    "image_url": "images/blogspot-com.png",
-    "background_color": "#F7F6EE"
+    "image_url": "images/blogger-com.png",
+    "background_color": "#ff8822"
   },
   {
     "title": "Business Insider",
     "url": "http://www.businessinsider.com",
     "image_url": "images/businessinsider-com.png",
-    "background_color": "#005D83"
+    "background_color": "#1d5b7d"
   },
   {
     "title": "BuzzFeed",
     "url": "http://www.buzzfeed.com/index",
     "image_url": "images/buzzfeed-com.png",
-    "background_color": "#E93425"
+    "background_color": "#ee3322"
   },
   {
     "title": "Buzzlie",
     "url": "http://buzzlie.com/",
     "image_url": "images/buzzlie-com.png",
-    "background_color": "#CE6294"
+    "background_color": "#ff68b6"
   },
   {
     "title": "Capital One",
     "url": "https://www.capitalone.com/",
     "image_url": "images/capitalone-com.png",
-    "background_color": "#F6F3F4"
+    "background_color": "#303e4f"
   },
   {
     "title": "Chase",
     "url": "https://www.chase.com",
     "image_url": "images/chase-com.png",
-    "background_color": "#005BB1"
+    "background_color": "#0d68c1"
   },
   {
     "title": "Citibank",
     "url": "https://online.citi.com/US/Welcome.c",
     "image_url": "images/citi-com.png",
-    "background_color": "#000"
+    "background_color": "#FFF"
   },
   {
     "title": "Craigslist",
     "url": "http://craigslist.org/",
     "image_url": "images/craigslist-org.png",
-    "background_color": "#000"
+    "background_color": "#652892"
   },
   {
     "title": "CNET",
     "url": "http://www.cnet.com/",
     "image_url": "images/cnet-com.png",
-    "background_color": "#9E100A"
+    "background_color": "#FFF"
   },
   {
     "title": "CNN",
     "url": "http://www.cnn.com",
     "image_url": "images/cnn-com.png",
-    "background_color": "#C11108"
+    "background_color": "#d41c1e"
   },
   {
     "title": "Diply.com",
