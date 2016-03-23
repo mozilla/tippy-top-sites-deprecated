@@ -159,7 +159,7 @@
     "title": "ESPN",
     "url": "http://espn.go.com",
     "image_url": "images/espn.go-com.svg",
-    "background_color": "#990000"
+    "background_color": "#990"
   },
   {
     "title": "Etsy",
@@ -225,7 +225,7 @@
     "title": "Groupon",
     "url": "http://www.groupon.com/",
     "image_url": "images/groupon-com.png",
-    "background_color": null
+    "background_color": "#F5F4EC"
   },
   {
     "title": "Hulu",
