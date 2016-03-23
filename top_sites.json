@@ -222,6 +222,12 @@
     "background_color": "#F5F4EC"
   },
   {
+    "title": "Groupon",
+    "url": "https://www.groupon.com/",
+    "image_url": "images/groupon-com.png",
+    "background_color": "#4EA21C"
+  },
+  {
     "title": "Hulu",
     "url": "http://www.hulu.com/",
     "image_url": "images/hulu-com.png",
@@ -388,12 +394,6 @@
     "url": "http://realtor.com",
     "image_url": "images/realtor-com.png",
     "background_color": "#D61226"
-  },
-  {
-    "title": "Groupon",
-    "url": "https://www.groupon.com/",
-    "image_url": "images/groupon-com.png",
-    "background_color": "#4EA21C"
   },
   {
     "title": "Reddit",
