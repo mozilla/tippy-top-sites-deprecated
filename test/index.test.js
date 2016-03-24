@@ -28,18 +28,20 @@ describe("top_sites", () => {
         assert.property(site, "image_url");
         assert.isString(site.image_url);
         assert.match(site.image_url, /\.(png|svg)$/, `expected ${site.image_url} to be a .png or .svg image`);
-        assert.isTrue(exists(join("images", site.image_url)), `expected ${site.image_url} to be found on disk`)
+        assert.isTrue(exists(join(site.image_url)), `expected ${site.image_url} to be found on disk`)
       });
       it("should have background color as a hex color", () => {
         assert.property(site, "background_color");
         assert.isString(site.background_color);
         assert.isTrue(validator.isHexColor(site.background_color), `expected ${site.background_color} to be a hex color`)
       });
+      /*
       it("should have background color as a RGB color", () => {
         assert.property(site, "background_color_rgb");
         assert.isArray(site.background_color_rgb);
         assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
       });
+      */
     });
   });
 });
