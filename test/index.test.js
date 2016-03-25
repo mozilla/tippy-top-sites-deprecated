@@ -28,7 +28,7 @@ describe("top_sites", () => {
         assert.property(site, "image_url");
         assert.isString(site.image_url);
         assert.match(site.image_url, /\.(png|svg)$/, `expected ${site.image_url} to be a .png or .svg image`);
-        assert.isTrue(exists(join(site.image_url)), `expected ${site.image_url} to be found on disk`)
+        assert.isTrue(exists(join("images", site.image_url)), `expected ${site.image_url} to be found on disk`)
       });
       it("should have background color as a hex color", () => {
         assert.property(site, "background_color");

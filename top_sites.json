@@ -3,565 +3,565 @@
   {
     "title": "About",
     "url": "http://www.about.com/",
-    "image_url": "images/about-com.png",
+    "image_url": "about-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Adobe",
     "url": "http://www.adobe.com/",
-    "image_url": "images/adobe-com.png",
+    "image_url": "adobe-com.png",
     "background_color": "#e22919"
   },
   {
     "title": "Amazon",
     "url": "http://www.amazon.com/",
-    "image_url": "images/amazon-com.png",
+    "image_url": "amazon-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Amazon Web Services",
     "url": "https://aws.amazon.com/",
-    "image_url": "images/amazonaws-com.png",
+    "image_url": "amazonaws-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "American Express",
     "url": "https://www.americanexpress.com",
-    "image_url": "images/americanexpress-com.png",
+    "image_url": "americanexpress-com.png",
     "background_color": "#e0e0e0"
   },
   {
     "title": "AOL",
     "url": "http://www.aol.com/",
-    "image_url": "images/aol-com.png",
+    "image_url": "aol-com.png",
     "background_color": "#e0e0e0"
   },
   {
     "title": "Apple",
     "url": "http://www.apple.com/",
-    "image_url": "images/apple-com.png",
+    "image_url": "apple-com.png",
     "background_color": "#6d6e71"
   },
   {
     "title": "Ask.com",
     "url": "http://www.ask.com",
-    "image_url": "images/ask-com.png",
+    "image_url": "ask-com.png",
     "background_color": "#cf0000"
   },
   {
     "title": "AT&T",
     "url": "https://www.att.com/",
-    "image_url": "images/att-com.png",
+    "image_url": "att-com.png",
     "background_color": "#5ba1ca"
   },
   {
     "title": "Bank of America",
     "url": "https://www.bankofamerica.com",
-    "image_url": "images/bankofamerica-com.png",
+    "image_url": "bankofamerica-com.png",
     "background_color": "#eb3146"
   },
   {
     "title": "Best Buy",
     "url": "http://www.bestbuy.com",
-    "image_url": "images/bestbuy-com.png",
+    "image_url": "bestbuy-com.png",
     "background_color": "#003a65"
   },
   {
     "title": "Bing",
     "url": "http://www.bing.com/",
-    "image_url": "images/bing-com.png",
+    "image_url": "bing-com.png",
     "background_color": "#138484"
   },
   {
     "title": "Blogger",
     "url": "https://www.blogger.com/home",
-    "image_url": "images/blogger-com.png",
+    "image_url": "blogger-com.png",
     "background_color": "#ff8822"
   },
   {
     "title": "Business Insider",
     "url": "http://www.businessinsider.com",
-    "image_url": "images/businessinsider-com.png",
+    "image_url": "businessinsider-com.png",
     "background_color": "#1d5b7d"
   },
   {
     "title": "BuzzFeed",
     "url": "http://www.buzzfeed.com/index",
-    "image_url": "images/buzzfeed-com.png",
+    "image_url": "buzzfeed-com.png",
     "background_color": "#ee3322"
   },
   {
     "title": "Buzzlie",
     "url": "http://buzzlie.com/",
-    "image_url": "images/buzzlie-com.png",
+    "image_url": "buzzlie-com.png",
     "background_color": "#ff68b6"
   },
   {
     "title": "Capital One",
     "url": "https://www.capitalone.com/",
-    "image_url": "images/capitalone-com.png",
+    "image_url": "capitalone-com.png",
     "background_color": "#303e4f"
   },
   {
     "title": "Chase",
     "url": "https://www.chase.com",
-    "image_url": "images/chase-com.png",
+    "image_url": "chase-com.png",
     "background_color": "#0d68c1"
   },
   {
     "title": "Citibank",
     "url": "https://online.citi.com/US/Welcome.c",
-    "image_url": "images/citi-com.png",
+    "image_url": "citi-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Craigslist",
     "url": "http://craigslist.org/",
-    "image_url": "images/craigslist-org.png",
+    "image_url": "craigslist-org.png",
     "background_color": "#652892"
   },
   {
     "title": "CNET",
     "url": "http://www.cnet.com/",
-    "image_url": "images/cnet-com.png",
+    "image_url": "cnet-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "CNN",
     "url": "http://www.cnn.com",
-    "image_url": "images/cnn-com.png",
+    "image_url": "cnn-com.png",
     "background_color": "#d41c1e"
   },
   {
     "title": "Diply.com",
     "url": "http://diply.com/",
-    "image_url": "images/diply-com.png",
+    "image_url": "diply-com.png",
     "background_color": "#2168b3"
   },
   {
     "title": "Discover",
     "url": "https://www.discover.com/",
-    "image_url": "images/discovercard-com.png",
+    "image_url": "discovercard-com.png",
     "background_color": "#4a4a4a"
   },
   {
     "title": "Dropbox",
     "url": "https://www.dropbox.com/",
-    "image_url": "images/dropbox-com.png",
+    "image_url": "dropbox-com.png",
     "background_color": "#007fe2"
   },
   {
     "title": "eBay",
     "url": "http://www.ebay.com",
-    "image_url": "images/ebay-com.png",
+    "image_url": "ebay-com.png",
     "background_color": "#ededed"
   },
   {
     "title": "ESPN",
     "url": "http://espn.go.com",
-    "image_url": "images/espn.go-com.png",
+    "image_url": "espn.go-com.png",
     "background_color": "#4b4b4b"
   },
   {
     "title": "Etsy",
     "url": "https://www.etsy.com/",
-    "image_url": "images/etsy-com.png",
+    "image_url": "etsy-com.png",
     "background_color": "#f76300"
   },
   {
     "title": "Facebook",
     "url": "https://www.facebook.com/",
-    "image_url": "images/facebook-com.png",
+    "image_url": "facebook-com.png",
     "background_color": "#edf0f5"
   },
   {
     "title": "Fandom",
     "url": "http://www.wikia.com/fandom",
-    "image_url": "images/wikia-com.png",
+    "image_url": "wikia-com.png",
     "background_color": "#f1f1f1"
   },
   {
     "title": "FedEx",
     "url": "http://www.fedex.com/",
-    "image_url": "images/fedex-com.png",
+    "image_url": "fedex-com.png",
     "background_color": "#391675"
   },
   {
     "title": "Forbes",
     "url": "http://www.forbes.com/home_usa/",
-    "image_url": "images/forbes-com.png",
+    "image_url": "forbes-com.png",
     "background_color": "#4177ab"
   },
   {
     "title": "Fox News",
     "url": "http://www.foxnews.com",
-    "image_url": "images/foxnews-com.png",
+    "image_url": "foxnews-com.png",
     "background_color": "#9e0b0f"
   },
   {
     "title": "Gfycat",
     "url": "http://gfycat.com/",
-    "image_url": "images/gfycat-com.png",
+    "image_url": "gfycat-com.png",
     "background_color": "#eaeaea"
   },
   {
     "title": "GitHub",
     "url": "https://github.com/",
-    "image_url": "images/github-com.png",
+    "image_url": "github-com.png",
     "background_color": "#eaeaea"
   },
   {
     "title": "Go",
     "url": "http://go.com",
-    "image_url": "images/go-com.png",
+    "image_url": "go-com.png",
     "background_color": "#000"
   },
   {
     "title": "Google",
     "url": "http://www.google.com/",
-    "image_url": "images/google-com.png",
+    "image_url": "google-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Groupon",
     "url": "http://www.groupon.com/",
-    "image_url": "images/groupon-com.png",
+    "image_url": "groupon-com.png",
     "background_color": "#53a318"
   },
   {
     "title": "Home Depot",
     "url": "http://www.homedepot.com/",
-    "image_url": "images/homedepot-com.png",
+    "image_url": "homedepot-com.png",
     "background_color": "#f7d5a4"
   },
   {
     "title": "The Huffington Post",
     "url": "http://www.huffingtonpost.com/",
-    "image_url": "images/huffingtonpost-com.png",
+    "image_url": "huffingtonpost-com.png",
     "background_color": "#7dbdb8"
   },
   {
     "title": "Hulu",
     "url": "http://www.hulu.com/",
-    "image_url": "images/hulu-com.png",
+    "image_url": "hulu-com.png",
     "background_color": "#97c64f"
   },
   {
     "title": "IMDb",
     "url": "http://www.imdb.com/",
-    "image_url": "images/imdb-com.png",
+    "image_url": "imdb-com.png",
     "background_color": "#ffd100"
   },
   {
     "title": "Imgur",
     "url": "http://imgur.com/",
-    "image_url": "images/imgur-com.png",
+    "image_url": "imgur-com.png",
     "background_color": "#2a2c25"
   },
   {
     "title": "Instagram",
     "url": "https://www.instagram.com/",
-    "image_url": "images/instagram-com.png",
+    "image_url": "instagram-com.png",
     "background_color": "#0b558a"
   },
   {
     "title": "Instructure",
     "url": "https://www.instructure.com/",
-    "image_url": "images/instructure-com.png",
+    "image_url": "instructure-com.png",
     "background_color": "#efefef"
   },
   {
     "title": "Intuit",
     "url": "http://www.intuit.com/",
-    "image_url": "images/intuit-com.png",
+    "image_url": "intuit-com.png",
     "background_color": "#f6f6f6"
   },
   {
     "title": "Internal Revenue Service",
     "url": "https://www.irs.gov/",
-    "image_url": "images/irs-gov.png",
+    "image_url": "irs-gov.png",
     "background_color": "#efefef"
   },
   {
     "title": "Kohl's",
     "url": "http://www.kohls.com",
-    "image_url": "images/kohls-com.png",
+    "image_url": "kohls-com.png",
     "background_color": "#000"
   },
   {
     "title": "LinkedIn",
     "url": "https://www.linkedin.com/",
-    "image_url": "images/linkedin-com.png",
+    "image_url": "linkedin-com.png",
     "background_color": "#00659b"
   },
   {
     "title": "Live",
     "url": "https://mail.live.com",
-    "image_url": "images/live-com.png",
+    "image_url": "live-com.png",
     "background_color": "#0070c9"
   },
   {
     "title": "Lowes",
     "url": "http://www.lowes.com/",
-    "image_url": "images/lowes-com.png",
+    "image_url": "lowes-com.png",
     "background_color": "#004793"
   },
   {
     "title": "Macy's",
     "url": "http://www.macys.com/",
-    "image_url": "images/macys-com.png",
+    "image_url": "macys-com.png",
     "background_color": "#ea0000"
   },
   {
     "title": "Mail Online",
     "url": "http://www.dailymail.co.uk/ushome/index.html",
-    "image_url": "images/dailymail-co-uk.png",
+    "image_url": "dailymail-co-uk.png",
     "background_color": "#0064c1"
   },
   {
     "title": "Microsoft",
     "url": "http://www.microsoft.com/",
-    "image_url": "images/microsoft-com.png",
+    "image_url": "microsoft-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Microsoftonline",
     "url": "https://login.microsoftonline.com/",
-    "image_url": "images/microsoftonline-com.png",
+    "image_url": "microsoftonline-com.png",
     "background_color": "#ce4f00"
   },
   {
     "title": "Microsoft Office",
     "url": "https://www.office.com/",
-    "image_url": "images/office-com.png",
+    "image_url": "office-com.png",
     "background_color": "#000"
   },
   {
     "title": "MSN.com",
     "url": "http://www.msn.com/",
-    "image_url": "images/msn-com.png",
+    "image_url": "msn-com.png",
     "background_color": "#000"
   },
   {
     "title": "National Institutes of Health (NIH)",
     "url": "http://www.nih.gov/",
-    "image_url": "images/nih-gov.png",
+    "image_url": "nih-gov.png",
     "background_color": "#efefef"
   },
   {
     "title": "Netflix",
     "url": "https://www.netflix.com/",
-    "image_url": "images/netflix-com.png",
+    "image_url": "netflix-com.png",
     "background_color": "#000"
   },
   {
     "title": "The New York Times",
     "url": "http://www.nytimes.com",
-    "image_url": "images/nytimes-com.png",
+    "image_url": "nytimes-com.png",
     "background_color": "#FFF"
   },
   {
     "title": "Pandora",
     "url": "http://www.pandora.com/",
-    "image_url": "images/pandora-com.png",
+    "image_url": "pandora-com.png",
     "background_color": "#efefef"
   },
   {
     "title": "Patch",
     "url": "http://patch.com",
-    "image_url": "images/patch-com.png",
+    "image_url": "patch-com.png",
     "background_color": "#519442"
   },
   {
     "title": "Paypal",
     "url": "https://www.paypal.com/home",
-    "image_url": "images/paypal-com.png",
+    "image_url": "paypal-com.png",
     "background_color": "#009cde"
   },
   {
     "title": "Pinterest",
     "url": "http://pinterest.com",
-    "image_url": "images/pinterest-com.png",
+    "image_url": "pinterest-com.png",
     "background_color": "#ba212b"
   },
   {
     "title": "Realtor",
     "url": "http://realtor.com",
-    "image_url": "images/realtor-com.png",
+    "image_url": "realtor-com.png",
     "background_color": "#fcfcfc"
   },
   {
     "title": "Reddit",
     "url": "https://www.reddit.com/",
-    "image_url": "images/reddit-com.png",
+    "image_url": "reddit-com.png",
     "background_color": "#cee3f8"
   },
   {
     "title": "Salesforce.com",
     "url": "http://www.salesforce.com/",
-    "image_url": "images/salesforce-com.png",
+    "image_url": "salesforce-com.png",
     "background_color": "#efefef"
   },
   {
     "title": "Salesforce.com",
     "url": "http://www.salesforce.com/platform/products/force/",
-    "image_url": "images/salesforce-com.png",
+    "image_url": "salesforce-com.png",
     "background_color": "#efefef"
   },
   {
     "title": "Slickdeals",
     "url": "http://slickdeals.net",
-    "image_url": "images/slickdeals-net.png",
+    "image_url": "slickdeals-net.png",
     "background_color": "#0072bd"
   },
   {
     "title": "Stack Overflow",
     "url": "http://stackoverflow.com/",
-    "image_url": "images/stackoverflow-com.png",
+    "image_url": "stackoverflow-com.png",
     "background_color": "#f48024"
   },
   {
     "title": "Target",
     "url": "http://www.target.com",
-    "image_url": "images/target-com.png",
+    "image_url": "target-com.png",
     "background_color": "#e81530"
   },
   {
     "title": "TripAdvisor",
     "url": "https://www.tripadvisor.com/",
-    "image_url": "images/tripadvisor-com.png",
+    "image_url": "tripadvisor-com.png",
     "background_color": "#5ba443"
   },
   {
     "title": "Tumblr",
     "url": "https://www.tumblr.com/",
-    "image_url": "images/tumblr-com.png",
+    "image_url": "tumblr-com.png",
     "background_color": "#4ebd89"
   },
   {
     "title": "Twitch",
     "url": "https://www.twitch.tv/",
-    "image_url": "images/twitch-tv.png",
+    "image_url": "twitch-tv.png",
     "background_color": "#5A43A9"
   },
   {
     "title": "Twitter",
     "url": "https://twitter.com/",
-    "image_url": "images/twitter-com.png",
+    "image_url": "twitter-com.png",
     "background_color": "#049ff5"
   },
   {
     "title": "UPS",
     "url": "https://www.ups.com/",
-    "image_url": "images/ups-com.png",
+    "image_url": "ups-com.png",
     "background_color": "#281704"
   },
   {
     "title": "USA TODAY",
     "url": "http://www.usatoday.com/",
-    "image_url": "images/usatoday-com.png",
+    "image_url": "usatoday-com.png",
     "background_color": "#000"
   },
   {
     "title": "USPS",
     "url": "https://www.usps.com/",
-    "image_url": "images/usps-com.png",
+    "image_url": "usps-com.png",
     "background_color": "#f5f5f5"
   },
   {
     "title": "Verizon Wireless",
     "url": "http://www.verizonwireless.com/",
-    "image_url": "images/verizonwireless-com.png",
+    "image_url": "verizonwireless-com.png",
     "background_color": "#fff"
   },
   {
     "title": "VICE",
     "url": "http://www.vice.com/",
-    "image_url": "images/vice-com.png",
+    "image_url": "vice-com.png",
     "background_color": "#000"
   },
   {
     "title": "Walmart.com",
     "url": "http://www.walmart.com/",
-    "image_url": "images/walmart-com.png",
+    "image_url": "walmart-com.png",
     "background_color": "#fff"
   },
   {
     "title": "Washington Post",
     "url": "https://www.washingtonpost.com/regional/",
-    "image_url": "images/washingtonpost-com.png",
+    "image_url": "washingtonpost-com.png",
     "background_color": "#fff"
   },
   {
     "title": "The Weather Channel",
     "url": "https://weather.com/",
-    "image_url": "images/weather-com.png",
+    "image_url": "weather-com.png",
     "background_color": "#2147a8"
   },
   {
     "title": "WebMD",
     "url": "http://www.webmd.com/default.htm",
-    "image_url": "images/webmd-com.png",
+    "image_url": "webmd-com.png",
     "background_color": "#00639a"
   },
   {
     "title": "Wells Fargo",
     "url": "https://www.wellsfargo.com",
-    "image_url": "images/wellsfargo-com.png",
+    "image_url": "wellsfargo-com.png",
     "background_color": "#ba1613"
   },
   {
     "title": "Wikipedia",
     "url": "https://www.wikipedia.org/",
-    "image_url": "images/wikipedia-org.png",
+    "image_url": "wikipedia-org.png",
     "background_color": "#fff"
   },
   {
     "title": "WittyFeed",
     "url": "http://www.wittyfeed.com",
-    "image_url": "images/wittyfeed-com.png",
+    "image_url": "wittyfeed-com.png",
     "background_color": "#d83633"
   },
   {
     "title": "WordPress.com",
     "url": "https://wordpress.com",
-    "image_url": "images/wordpress-com.png",
+    "image_url": "wordpress-com.png",
     "background_color": "#00739c"
   },
   {
     "title": "Xfinity",
     "url": "http://www.comcast.net/",
-    "image_url": "images/xfinity-com.png",
+    "image_url": "xfinity-com.png",
     "background_color": "#000"
   },
   {
     "title": "Xfinity",
     "url": "http://www.xfinity.com/",
-    "image_url": "images/xfinity-com.png",
+    "image_url": "xfinity-com.png",
     "background_color": "#000"
   },
   {
     "title": "Yahoo",
     "url": "https://www.yahoo.com/",
-    "image_url": "images/yahoo-com.png",
+    "image_url": "yahoo-com.png",
     "background_color": "#5009a7"
   },
   {
     "title": "Yelp",
     "url": "http://yelp.com/",
-    "image_url": "images/yelp-com.png",
+    "image_url": "yelp-com.png",
     "background_color": "#d83633"
   },
   {
     "title": "YouTube",
     "url": "https://www.youtube.com/",
-    "image_url": "images/youtube-com.png",
+    "image_url": "youtube-com.png",
     "background_color": "#fff"
   },
   {
     "title": "Zillow",
     "url": "http://www.zillow.com/",
-    "image_url": "images/zillow-com.png",
+    "image_url": "zillow-com.png",
     "background_color": "#98c554"
   }
 ]
