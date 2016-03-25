@@ -110,7 +110,7 @@
   },
   {
     "title": "Citibank",
-    "url": "https://online.citi.com/US/Welcome.c",
+    "url": "https://online.citi.com/",
     "image_url": "citi-com.png",
     "background_color": "#FFF"
   },
@@ -188,7 +188,7 @@
   },
   {
     "title": "Forbes",
-    "url": "http://www.forbes.com/home_usa/",
+    "url": "http://www.forbes.com/",
     "image_url": "forbes-com.png",
     "background_color": "#4177ab"
   },
@@ -314,7 +314,7 @@
   },
   {
     "title": "Mail Online",
-    "url": "http://www.dailymail.co.uk/ushome/index.html",
+    "url": "http://www.dailymail.co.uk/",
     "image_url": "dailymail-co-uk.png",
     "background_color": "#0064c1"
   },
@@ -325,7 +325,7 @@
     "background_color": "#FFF"
   },
   {
-    "title": "Microsoftonline",
+    "title": "Microsoft Online",
     "url": "https://login.microsoftonline.com/",
     "image_url": "microsoftonline-com.png",
     "background_color": "#ce4f00"
@@ -373,7 +373,7 @@
     "background_color": "#519442"
   },
   {
-    "title": "Paypal",
+    "title": "PayPal",
     "url": "https://www.paypal.com/home",
     "image_url": "paypal-com.png",
     "background_color": "#009cde"
