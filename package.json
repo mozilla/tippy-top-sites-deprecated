@@ -20,6 +20,7 @@
     "url": "git+https://github.com/nchapman/tippy-top-sites.git"
   },
   "scripts": {
+    "deploy": "surge . --domain tippy-top-sites.surge.sh",
     "start": "live-server .",
     "test": "mocha -R spec"
   }
