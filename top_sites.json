@@ -133,13 +133,6 @@
     "domain": "online.citi.com"
   },
   {
-    "title": "Craigslist",
-    "url": "http://craigslist.org/",
-    "image_url": "craigslist-org.png",
-    "background_color": "#652892",
-    "domain": "craigslist.org"
-  },
-  {
     "title": "CNET",
     "url": "http://www.cnet.com/",
     "image_url": "cnet-com.png",
@@ -152,6 +145,13 @@
     "image_url": "cnn-com.png",
     "background_color": "#d41c1e",
     "domain": "cnn.com"
+  },
+  {
+    "title": "Craigslist",
+    "url": "http://craigslist.org/",
+    "image_url": "craigslist-org.png",
+    "background_color": "#652892",
+    "domain": "craigslist.org"
   },
   {
     "title": "Diply.com",
@@ -327,18 +327,18 @@
     "domain": "instructure.com"
   },
   {
-    "title": "Intuit",
-    "url": "http://www.intuit.com/",
-    "image_url": "intuit-com.png",
-    "background_color": "#f6f6f6",
-    "domain": "intuit.com"
-  },
-  {
     "title": "Internal Revenue Service",
     "url": "https://www.irs.gov/",
     "image_url": "irs-gov.png",
     "background_color": "#efefef",
     "domain": "irs.gov"
+  },
+  {
+    "title": "Intuit",
+    "url": "http://www.intuit.com/",
+    "image_url": "intuit-com.png",
+    "background_color": "#f6f6f6",
+    "domain": "intuit.com"
   },
   {
     "title": "Kohl's",
@@ -390,18 +390,18 @@
     "domain": "microsoft.com"
   },
   {
-    "title": "Microsoft Online",
-    "url": "https://login.microsoftonline.com/",
-    "image_url": "microsoftonline-com.png",
-    "background_color": "#ce4f00",
-    "domain": "login.microsoftonline.com"
-  },
-  {
     "title": "Microsoft Office",
     "url": "https://www.office.com/",
     "image_url": "office-com.png",
     "background_color": "#000",
     "domain": "office.com"
+  },
+  {
+    "title": "Microsoft Online",
+    "url": "https://login.microsoftonline.com/",
+    "image_url": "microsoftonline-com.png",
+    "background_color": "#ce4f00",
+    "domain": "login.microsoftonline.com"
   },
   {
     "title": "MSN.com",
@@ -476,13 +476,6 @@
   {
     "title": "Salesforce.com",
     "url": "http://www.salesforce.com/",
-    "image_url": "salesforce-com.png",
-    "background_color": "#efefef",
-    "domain": "salesforce.com"
-  },
-  {
-    "title": "Salesforce.com",
-    "url": "http://www.salesforce.com/platform/products/force/",
     "image_url": "salesforce-com.png",
     "background_color": "#efefef",
     "domain": "salesforce.com"
@@ -629,17 +622,17 @@
   },
   {
     "title": "Xfinity",
-    "url": "http://www.comcast.net/",
-    "image_url": "xfinity-com.png",
-    "background_color": "#000",
-    "domain": "comcast.net"
-  },
-  {
-    "title": "Xfinity",
     "url": "http://www.xfinity.com/",
     "image_url": "xfinity-com.png",
     "background_color": "#000",
     "domain": "xfinity.com"
+  },
+  {
+    "title": "Xfinity",
+    "url": "http://www.comcast.net/",
+    "image_url": "xfinity-com.png",
+    "background_color": "#000",
+    "domain": "comcast.net"
   },
   {
     "title": "Yahoo",
