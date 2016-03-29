@@ -4,6 +4,7 @@ const assert = require("chai").assert;
 const hexToRgb = require("hex-to-rgb");
 const validator = require("validator");
 const data = require("../top_sites.json");
+const exported = require("../index");
 
 describe("top_sites", () => {
   it("should be an array", () => {
@@ -35,13 +36,20 @@ describe("top_sites", () => {
         assert.isString(site.background_color);
         assert.isTrue(validator.isHexColor(site.background_color), `expected ${site.background_color} to be a hex color`)
       });
-      /*
-      it("should have background color as a RGB color", () => {
-        assert.property(site, "background_color_rgb");
-        assert.isArray(site.background_color_rgb);
-        assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
-      });
-      */
+    });
+  });
+});
+
+describe("exported", () => {
+  it("should be an array of the same length as data", () => {
+    assert.isArray(exported);
+    assert.equal(exported.length, data.length);
+  });
+  exported.forEach((site, i) => {
+    it("should have background color as a RGB color", () => {
+      assert.property(site, "background_color_rgb");
+      assert.isArray(site.background_color_rgb);
+      assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
     });
   });
 });
