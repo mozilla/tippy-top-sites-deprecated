@@ -266,7 +266,7 @@
   },
   {
     "title": "Groupon",
-    "url": "http://www.groupon.com/",
+    "url": "https://www.groupon.com/",
     "image_url": "groupon-com.png",
     "background_color": "#53a318",
     "domain": "groupon.com"
@@ -454,14 +454,14 @@
   },
   {
     "title": "Pinterest",
-    "url": "http://pinterest.com",
+    "url": "https://www.pinterest.com/",
     "image_url": "pinterest-com.png",
     "background_color": "#ba212b",
     "domain": "pinterest.com"
   },
   {
     "title": "Realtor",
-    "url": "http://realtor.com",
+    "url": "http://www.realtor.com/",
     "image_url": "realtor-com.png",
     "background_color": "#fcfcfc",
     "domain": "realtor.com"
@@ -1077,7 +1077,7 @@
   },
   {
     "title": "Delta Air Lines",
-    "url": "http://www.delta.com/",
+    "url": "https://www.delta.com/",
     "image_url": "delta-com.png",
     "background_color": "#F8F9FB",
     "domain": "delta.com"
@@ -1294,7 +1294,7 @@
   },
   {
     "title": "Houzz",
-    "url": "http://houzz.com/",
+    "url": "https://www.houzz.com/",
     "image_url": "houzz-com.png",
     "background_color": null,
     "domain": "houzz.com"
