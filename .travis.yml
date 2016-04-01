@@ -1,7 +1,13 @@
 language: node_js
-
 node_js:
-  - "5.5.0"
-
+  - 5
 notifications:
   email: false
+deploy:
+  provider: npm
+  email: k88hudson+tippy-top-sites-publisher@gmail.com
+  api_key:
+    secure: Vu2UIQI7QbDS7mT5ff1U9umuKjww+vVQmG9zqw7VqcyusSobfrkUhO+EqSHVg5fBSyys5pw9NoZ4tQYI8diHFqjLYzIB96W6FHMXCuMRyB4+pR65INnaGeQHHQPXJE82hRNA40+B69AFTQtI5gJbo3jfFY4qYs6KOTNpOZKCkdKWbLZavrLdXqhcZ7XquzVsZxtokl10d3lwb15h4fBD4lLQaXNl1ZOMx6A+9dFpVz0Sxml401KB2UvYSVI1F1bPBnDQyUluqnTCPWJ7ok3hqiCO8TG1TogAQqCyZrfaZkGuaALTHiZC1CcnM65qtjeT/n+LzjJWo7VNoCO0Filutm8NK9DME2DYIHvh7RWrAwuxqynkYtfJfvYRmhhHxrNn4WPLJ8PT++5gAKvvfN/16hjk6+tbMBqxhgTo24Vwu411LEcIUsCnHwdo8GdrVH+qimZOHRiz0f4olIWdVeh2oDfk3nhFfWlfuWVBobdbMmZTGwY45FK4lMqHK/CRkRaozp6gyL/5KA0O1tglrAkQUnsGHQ2PJ71dqzhQeUAeSTb8FoESOgeCkcAUWnLnRg2oYZ9uzxUnkrGuLWB9hcdRlZ/fXEvVbBnu++STwGy4SGw6rtsTZBs6H30vJRQ4ih+LpuX5LPvj2XVJ3KHJlHbBdzSnXjxUMTuJiViFEExeYgA=
+  on:
+    branch: master
+    tags: true

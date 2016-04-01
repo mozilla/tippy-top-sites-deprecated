@@ -21,7 +21,9 @@
   "scripts": {
     "deploy": "surge . --domain tippy-top-sites.surge.sh",
     "start": "live-server .",
-    "test": "mocha -R spec"
+    "test": "mocha -R spec",
+    "preversion": "npm test",
+    "postversion": "git push https://github.com/nchapman/tippy-top-sites.git master --tags"
   },
   "dependencies": {
     "hex-to-rgb": "1.0.1"
