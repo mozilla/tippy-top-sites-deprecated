@@ -17,12 +17,19 @@ You must first install dependencies with `npm install`.
 ## Commands
 
 ```
-npm start   Runs a preview server at http://localhost:8080
-npm test    Runs tests.
+npm start           Runs a preview server at http://localhost:8080
+npm test            Runs tests.
+npm version [type]  Create a tag for release
 ```
 
 ## Tagging a release
 
-In order to release, you must have access to publish to the [npm package](https://www.npmjs.com/package/tippy-top-sites). File an issue and ping @k88hudson if you would like to have publish access.
+In order to create a release, you must create a tag by running:
 
-To tag a release, you must run `npm version [type]`, where `[type]` is one of `patch`, `minor`, or `major`. This will bump the version number in `package.json`, create a tag, publish it to npm, and push the tag to github.
+```
+npm version [type]
+```
+
+Where `[type]` is one of `patch`, `minor`, or `major`. This will run tests, bump the version number in `package.json`, and push the tag to GitHub.
+
+When this is done, travis will automatically publish the new version to npm.
