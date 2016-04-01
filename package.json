@@ -23,7 +23,7 @@
     "start": "live-server .",
     "test": "mocha -R spec",
     "preversion": "npm test",
-    "postversion": "git push https://github.com/nchapman/tippy-top-sites.git master --tags"
+    "postversion": "git push git@github.com:nchapman/tippy-top-sites.git master --tags"
   },
   "dependencies": {
     "hex-to-rgb": "1.0.1"
