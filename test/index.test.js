@@ -41,15 +41,23 @@ describe("top_sites", () => {
 });
 
 describe("exported", () => {
+  const all = exported.all;
+  const byUrl = exported.byUrl;
   it("should be an array of the same length as data", () => {
-    assert.isArray(exported);
-    assert.equal(exported.length, data.length);
+    assert.isArray(all);
+    assert.equal(all.length, data.length);
   });
-  exported.forEach((site, i) => {
-    it("should have background color as a RGB color", () => {
-      assert.property(site, "background_color_rgb");
-      assert.isArray(site.background_color_rgb);
-      assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
+  all.forEach((site, i) => {
+    describe(`#${i + 1} ${site.title}`, () => {
+      it("should have background color as a RGB color", () => {
+        assert.property(site, "background_color_rgb");
+        assert.isArray(site.background_color_rgb);
+        assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
+      });
+      it("should exist in byUrl", () => {
+        assert.property(byUrl, site.url);
+        assert.deepEqual(site, byUrl[site.url]);
+      });
     });
   });
 });
