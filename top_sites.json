@@ -855,7 +855,7 @@
     "title": "FiveThirtyEight",
     "url": "http://fivethirtyeight.com/",
     "image_url": "fivethirtyeight-com.png",
-    "background_color": "black",
+    "background_color": "#000",
     "domain": "fivethirtyeight.com"
   },
   {
