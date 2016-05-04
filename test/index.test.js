@@ -20,6 +20,11 @@ describe("top_sites", () => {
         assert.ok(site.title);
         assert.isString(site.title);
       });
+      it("should have a non-empty domain", () => {
+        assert.property(site, "domain");
+        assert.ok(site.domain);
+        assert.isString(site.domain);
+      });
       it("should have a valid url", () => {
         assert.property(site, "url");
         assert.isString(site.url);
