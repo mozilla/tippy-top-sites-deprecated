@@ -287,6 +287,13 @@
     "domain": "dailymail.co.uk"
   },
   {
+    "title": "The Daily Beast",
+    "url": "https://www.thedailybeast.com/",
+    "image_url": "dailybeast-com.png",
+    "background_color": "#f12c15",
+    "domain": "delta.com"
+  },
+  {
     "title": "Delta Air Lines",
     "url": "https://www.delta.com/",
     "image_url": "delta-com.png",
@@ -299,6 +306,13 @@
     "image_url": "deviantart-com.png",
     "background_color": "#00ce3e",
     "domain": "deviantart.com"
+  },
+  {
+    "title": "Digg",
+    "url": "http://digg.com/",
+    "image_url": "digg-com.png",
+    "background_color": "#000",
+    "domain": "digg.com"
   },
   {
     "title": "Diply.com",
@@ -715,6 +729,20 @@
     "domain": "irs.gov"
   },
   {
+    "title": "Invision",
+    "url": "https://www.invision.com/",
+    "image_url": "invision-com.png",
+    "background_color": "#ff2e63",
+    "domain": "invision.gov"
+  },
+  {
+    "title": "Invision",
+    "url": "https://mozilla.invision.com/",
+    "image_url": "invision-com.png",
+    "background_color": "#ff2e63",
+    "domain": "invision.gov"
+  },
+  {
     "title": "JCPenney",
     "url": "http://www.jcpenney.com/",
     "image_url": "jcpenney-com.png",
@@ -1037,6 +1065,13 @@
     "domain": "staples.com"
   },
   {
+    "title": "Strava",
+    "url": "http://www.strava.com/",
+    "image_url": "strava-com.png",
+    "background_color": "#ff4b00",
+    "domain": "strava.com"
+  },
+  {
     "title": "SurveyMonkey",
     "url": "https://www.surveymonkey.com/",
     "image_url": "surveymonkey-com.png",
@@ -1049,6 +1084,13 @@
     "image_url": "swagbucks-com.png",
     "background_color": "#5fb5d6",
     "domain": "swagbucks.com"
+  },
+  {
+    "title": "TPM",
+    "url": "http://talkingpointsmemo.com/",
+    "image_url": "talkingpointsmemo-com.png",
+    "background_color": "#FFF",
+    "domain": "talkingpointsmemo.com"
   },
   {
     "title": "T-Mobile",
@@ -1252,6 +1294,13 @@
     "image_url": "wikipedia-org.png",
     "background_color": "#fff",
     "domain": "wikipedia.org"
+  },
+  {
+    "title": "Wired",
+    "url": "https://www.wired.com/",
+    "image_url": "wired-com.png",
+    "background_color": "#000",
+    "domain": "wired.com"
   },
   {
     "title": "WittyFeed",
