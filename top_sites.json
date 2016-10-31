@@ -530,98 +530,98 @@
   },
   {
     "title": "Google Admin",
-    "url": "http:/admin.google.com/",
+    "url": "http://admin.google.com/",
     "image_url": "google-admin.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Calendar",
-    "url": "http:/calendar.google.com/",
+    "url": "http://calendar.google.com/",
     "image_url": "google-calendar.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Contacts",
-    "url": "http:/contacts.google.com/",
+    "url": "http://contacts.google.com/",
     "image_url": "google-contacts.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Docs",
-    "url": "http:/docs.google.com/",
+    "url": "http://docs.google.com/",
     "image_url": "google-docs.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Drive",
-    "url": "http:/drive.google.com/",
+    "url": "http://drive.google.com/",
     "image_url": "google-drive.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Forms",
-    "url": "http:/forms.google.com/",
+    "url": "http://forms.google.com/",
     "image_url": "google-forms.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Gmail",
-    "url": "http:/mail.google.com/",
+    "url": "http://mail.google.com/",
     "image_url": "google-gmail.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Groups",
-    "url": "http:/groups.google.com/",
+    "url": "http://groups.google.com/",
     "image_url": "google-groups.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Hangouts",
-    "url": "http:/hangouts.google.com/",
+    "url": "http://hangouts.google.com/",
     "image_url": "google-hangouts.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Google Plus",
-    "url": "http:/plus.google.com/",
+    "url": "http://plus.google.com/",
     "image_url": "google-plus.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Sheets",
-    "url": "http:/sheets.google.com/",
+    "url": "http://sheets.google.com/",
     "image_url": "google-sheets.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Sites",
-    "url": "http:/sites.google.com/",
+    "url": "http://sites.google.com/",
     "image_url": "google-sites.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Slides",
-    "url": "http:/slides.google.com/",
+    "url": "http://slides.google.com/",
     "image_url": "google-slides.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Photos",
-    "url": "http:/photos.google.com/",
+    "url": "http://photos.google.com/",
     "image_url": "google-photos.png",
     "background_color": "#FFF",
     "domain": "google.com"
@@ -731,7 +731,7 @@
   {
     "title": "Invision",
     "url": "https://www.invisionapp.com/",
-    "image_url": "invisionapp-com.png",
+    "image_url": "invision-com.png",
     "background_color": "#ff2e63",
     "domain": "invisionapp.com"
   },
@@ -740,7 +740,7 @@
     "url": "https://mozilla.invision.com/",
     "image_url": "invision-com.png",
     "background_color": "#ff2e63",
-    "domain": "invision.gov"
+    "domain": "invision.com"
   },
   {
     "title": "JCPenney",
