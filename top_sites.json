@@ -517,126 +517,118 @@
     "background_color": "#382110",
     "domain": "goodreads.com"
   },
-  
-  
-  
-  
   {
     "title": "Google",
-    "url": "http://www.google.com/",
+    "url": "https://www.google.com/",
     "image_url": "google-com.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Google Admin",
-    "url": "http://admin.google.com/",
+    "url": "https://admin.google.com/",
     "image_url": "google-admin.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Calendar",
-    "url": "http://calendar.google.com/",
+    "url": "https://calendar.google.com/",
     "image_url": "google-calendar.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Contacts",
-    "url": "http://contacts.google.com/",
+    "url": "https://contacts.google.com/",
     "image_url": "google-contacts.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Docs",
-    "url": "http://docs.google.com/",
+    "url": "https://docs.google.com/",
     "image_url": "google-docs.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Drive",
-    "url": "http://drive.google.com/",
+    "url": "https://drive.google.com/",
     "image_url": "google-drive.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Forms",
-    "url": "http://forms.google.com/",
+    "url": "https://forms.google.com/",
     "image_url": "google-forms.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Gmail",
-    "url": "http://mail.google.com/",
+    "url": "https://mail.google.com/",
     "image_url": "google-gmail.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Groups",
-    "url": "http://groups.google.com/",
+    "url": "https://groups.google.com/",
     "image_url": "google-groups.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Hangouts",
-    "url": "http://hangouts.google.com/",
+    "url": "https://hangouts.google.com/",
     "image_url": "google-hangouts.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Google Plus",
-    "url": "http://plus.google.com/",
+    "url": "https://plus.google.com/",
     "image_url": "google-plus.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Sheets",
-    "url": "http://sheets.google.com/",
+    "url": "https://sheets.google.com/",
     "image_url": "google-sheets.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Sites",
-    "url": "http://sites.google.com/",
+    "url": "https://sites.google.com/",
     "image_url": "google-sites.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Slides",
-    "url": "http://slides.google.com/",
+    "url": "https://slides.google.com/",
     "image_url": "google-slides.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Photos",
-    "url": "http://photos.google.com/",
+    "url": "https://photos.google.com/",
     "image_url": "google-photos.png",
     "background_color": "#FFF",
     "domain": "google.com"
   },
   {
     "title": "Images",
-    "url": "http://images.google.com/",
+    "url": "https://images.google.com/",
     "image_url": "images-google-com.png",
     "background_color": "#FFF",
     "domain": "images.google.com"
   },
-  
-  
-  
-  
   {
     "title": "Groupon",
     "url": "https://www.groupon.com/",
