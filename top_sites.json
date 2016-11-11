@@ -715,14 +715,7 @@
   },
   {
     "title": "Invision",
-    "url": "https://www.invisionapp.com/",
-    "image_url": "invision-com.png",
-    "background_color": "#ff2e63",
-    "domain": "invisionapp.com"
-  },
-  {
-    "title": "Invision",
-    "url": "https://mozilla.invisionapp.com/",
+    "urls": ["https://www.invisionapp.com/", "https://mozilla.invisionapp.com/"],
     "image_url": "invision-com.png",
     "background_color": "#ff2e63",
     "domain": "invisionapp.com"
