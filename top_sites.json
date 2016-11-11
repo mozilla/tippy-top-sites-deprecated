@@ -253,7 +253,7 @@
   },
   {
     "title": "Xfinity",
-    "url": "http://www.comcast.net/",
+    "urls": ["http://www.comcast.net/", "http://www.xfinity.com/"],
     "image_url": "xfinity-com.png",
     "background_color": "#000",
     "domain": "comcast.net"
@@ -323,17 +323,10 @@
   },
   {
     "title": "Discover",
-    "url": "https://www.discover.com/",
+    "urls": ["https://www.discover.com/", "https://www.discovercard.com/"],
     "image_url": "discovercard-com.png",
     "background_color": "#d6d6d6",
     "domain": "discover.com"
-  },
-  {
-    "title": "Discover",
-    "url": "https://www.discovercard.com/",
-    "image_url": "discovercard-com.png",
-    "background_color": "#d6d6d6",
-    "domain": "discovercard.com"
   },
   {
     "title": "Dropbox",
@@ -722,14 +715,7 @@
   },
   {
     "title": "Invision",
-    "url": "https://www.invisionapp.com/",
-    "image_url": "invision-com.png",
-    "background_color": "#ff2e63",
-    "domain": "invisionapp.com"
-  },
-  {
-    "title": "Invision",
-    "url": "https://mozilla.invisionapp.com/",
+    "urls": ["https://www.invisionapp.com/", "https://mozilla.invisionapp.com/"],
     "image_url": "invision-com.png",
     "background_color": "#ff2e63",
     "domain": "invisionapp.com"
@@ -1321,13 +1307,6 @@
     "image_url": "wunderground-com.png",
     "background_color": "#000000",
     "domain": "wunderground.com"
-  },
-  {
-    "title": "Xfinity",
-    "url": "http://www.xfinity.com/",
-    "image_url": "xfinity-com.png",
-    "background_color": "#000",
-    "domain": "xfinity.com"
   },
   {
     "title": "Yahoo",
