@@ -568,7 +568,7 @@
   },
   {
     "title": "Gmail",
-    "url": "https://mail.google.com/",
+    "urls": ["https://mail.google.com/", "https://gmail.com"],
     "image_url": "google-gmail.png",
     "background_color": "#FFF",
     "domain": "google.com"
