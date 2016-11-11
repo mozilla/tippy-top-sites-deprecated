@@ -1,10 +1,13 @@
+"use strict";
+
 const exists = require("fs").existsSync;
 const join = require("path").join;
 const assert = require("chai").assert;
 const hexToRgb = require("hex-to-rgb");
 const validator = require("validator");
 const data = require("../top_sites.json");
-const exported = require("../index");
+const sites = require("../index").sites;
+const getSiteData = require("../index").getSiteData;
 
 describe("top_sites", () => {
   it("should be an array", () => {
@@ -26,9 +29,19 @@ describe("top_sites", () => {
         assert.isString(site.domain);
       });
       it("should have a valid url", () => {
-        assert.property(site, "url");
-        assert.isString(site.url);
-        assert.isTrue(validator.isURL(site.url, {require_protocol: true}), `expected ${site.url} to be a valid url`);
+        assert.ok("url" in site || "urls" in site);
+        if ("url" in site) {
+          assert.property(site, "url");
+          assert.isString(site.url);
+          assert.isTrue(validator.isURL(site.url, {require_protocol: true}), `expected ${site.url} to be a valid url`);
+        }
+        if ("urls" in site) {
+          assert.isArray(site.urls);
+          for (let url of site.urls) {
+            assert.isString(url);
+            assert.isTrue(validator.isURL(url, {require_protocol: true}), `expected ${url} to be a valid url`);
+          }
+        }
       });
       it("should have an image_url pointing to a .png or .svg image prefixed with images/", () => {
         assert.property(site, "image_url");
@@ -45,16 +58,38 @@ describe("top_sites", () => {
   });
 });
 
-describe("exported", () => {
+describe("sites", () => {
   it("should be an array of the same length as data", () => {
-    assert.isArray(exported);
-    assert.equal(exported.length, data.length);
+    assert.isArray(sites);
+    assert.equal(sites.length, data.length);
   });
-  exported.forEach((site, i) => {
+
+  sites.forEach((site, i) => {
     it("should have background color as a RGB color", () => {
       assert.property(site, "background_color_rgb");
       assert.isArray(site.background_color_rgb);
       assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
     });
+  });
+});
+
+describe("getSiteData", () => {
+  it("should be a function", () => {
+    assert.isFunction(getSiteData);
+  });
+  it("should return site data for sites with multiple urls", () => {
+    const data = sites.find(x => x.title === "Gmail");
+    assert.equal(getSiteData("https://mail.google.com"), data);
+    assert.equal(getSiteData("http://mail.google.com"), data);
+    assert.equal(getSiteData("https://mail.google.com/foo"), data);
+    assert.equal(getSiteData("https://gmail.com"), data);
+    assert.equal(getSiteData("https://gmail.com/"), data);
+    assert.equal(getSiteData("https://gmail.com/foo"), data);
+  });
+  it("should return site data for sites with a single url", () => {
+    const data = sites.find(x => x.title === "Gizmodo");
+    assert.equal(getSiteData("https://gizmodo.com"), data);
+    assert.equal(getSiteData("http://gizmodo.com"), data);
+    assert.equal(getSiteData("https://gizmodo.com/article"), data);
   });
 });
