@@ -42,7 +42,7 @@ function getSiteData(url) {
   if (key && key in sitesByDomain) {
     siteData = sitesByDomain[key];
   }
-  return sitesByDomain[key];
+  return siteData;
 }
 
 module.exports.sites = sites;
