@@ -3,7 +3,11 @@
   "description": "This repo is meant to provide a hand curated set of icons, colors, and titles for use in [Activity Stream](https://github.com/mozilla/activity-streams). It is meant as a temporary solution to ugly data. We should do something much better very soon.",
   "version": "1.0.0",
   "bugs": {
-    "url": "https://github.com/nchapman/tippy-top-sites/issues"
+    "url": "https://github.com/mozilla/tippy-top-sites/issues"
+  },
+  "dependencies": {
+    "hex-to-rgb": "1.0.1",
+    "url-parse": "1.1.7"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -12,23 +16,18 @@
     "mocha": "^2.4.5",
     "validator": "^5.1.0"
   },
-  "homepage": "https://github.com/nchapman/tippy-top-sites#readme",
+  "homepage": "https://github.com/mozilla/tippy-top-sites#readme",
   "license": "MPL-2.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nchapman/tippy-top-sites.git"
+    "url": "git+https://github.com/mozilla/tippy-top-sites.git"
   },
   "scripts": {
     "optimize": "imagemin images/*.png --out-dir=images",
-    "deploy": "surge . --domain tippy-top-sites.surge.sh",
-    "start": "live-server .",
-    "test": "mocha -R spec",
+    "postversion": "git push git@github.com:mozilla/tippy-top-sites.git master --tags",
     "preversion": "npm test",
-    "postversion": "git push git@github.com:nchapman/tippy-top-sites.git master --tags"
-  },
-  "dependencies": {
-    "hex-to-rgb": "1.0.1",
-    "url-parse": "1.1.7"
+    "start": "live-server .",
+    "test": "mocha -R spec"
   }
 }
