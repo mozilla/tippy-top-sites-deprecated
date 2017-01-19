@@ -1,5 +1,8 @@
 "use strict";
 
+// What is the size of the images, in pixels?
+const IMAGE_SIZE = 128;
+
 const hexToRgb = require("hex-to-rgb");
 const urlParse = require("url-parse");
 
@@ -47,3 +50,4 @@ function getSiteData(url) {
 
 module.exports.sites = sites;
 module.exports.getSiteData = getSiteData;
+module.exports.IMAGE_SIZE = IMAGE_SIZE;
