@@ -78,7 +78,8 @@ describe("getSiteData", () => {
     assert.isFunction(getSiteData);
   });
   it("should return site data for sites with multiple urls", () => {
-    const data = sites.find(x => x.title === "Gmail");
+    const data = sites.find(x => x.title === "gmail");
+    assert.ok(data, "Should have sites with title gmail");
     assert.equal(getSiteData("https://mail.google.com"), data);
     assert.equal(getSiteData("http://mail.google.com"), data);
     assert.equal(getSiteData("https://mail.google.com/foo"), data);
@@ -87,7 +88,8 @@ describe("getSiteData", () => {
     assert.equal(getSiteData("https://gmail.com/foo"), data);
   });
   it("should return site data for sites with a single url", () => {
-    const data = sites.find(x => x.title === "Gizmodo");
+    const data = sites.find(x => x.title === "gizmodo");
+    assert.ok(data, "Should have sites with title gizmodo");
     assert.equal(getSiteData("https://gizmodo.com"), data);
     assert.equal(getSiteData("http://gizmodo.com"), data);
     assert.equal(getSiteData("https://gizmodo.com/article"), data);
