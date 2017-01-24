@@ -10,7 +10,7 @@
       items.forEach(function (item) {
         $('#top-sites').append(`
           <div class="site">
-          	<div class="iconcard" style="background-color: ${item.background_color};"?>
+          	<div class="iconcard" style="background-color: ${item.background_color};">
 							<img src="images/${item.image_url}">
             </div>
             <a href="${item.url}" class="title">${item.title}</a>
@@ -36,13 +36,13 @@
       margin: 16px;
       text-align: center;
       width: 96px;
-      border-radius12pt;
+      border-radius: 12pt;
     }
     .iconcard {
       height: 96px;
       text-align: center;
       width: 96px;
-      border-radius:12pt;
+      border-radius: 12pt;
     }
 
     .iconcard img {
