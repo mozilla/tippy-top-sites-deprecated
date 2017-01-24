@@ -9,8 +9,10 @@
     $.getJSON('top_sites.json', function(items) {
       items.forEach(function (item) {
         $('#top-sites').append(`
-          <div class="site" style="background-color: ${item.background_color};">
-            <img src="images/${item.image_url}">
+          <div class="site">
+          	<div class="iconcard" style="background-color: ${item.background_color};">
+							<img src="images/${item.image_url}">
+            </div>
             <a href="${item.url}" class="title">${item.title}</a>
           </div>
         `);
@@ -30,17 +32,23 @@
     }
     .site {
       float: left;
-      height: 96px;
-      margin: 0 20px 20px 0;
+      height: 124px;
+      margin: 16px;
       text-align: center;
       width: 96px;
-      border-radius:6pt;
+      border-radius: 12pt;
+    }
+    .iconcard {
+      height: 96px;
+      text-align: center;
+      width: 96px;
+      border-radius: 12pt;
     }
 
-    .site img {
-      height: 32px;
-      margin-top: 10px;
-      width: 32px;
+    .iconcard img {
+      height: 64px;
+      margin-top: 16px;
+      width: 64px;
       fill: #ffffff;
     }
 
