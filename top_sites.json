@@ -57,7 +57,7 @@
   },
   {
     "title": "amazon",
-    "url": "http://www.amazon.com/",
+    "urls": ["https://www.amazon.com/", "https://smile.amazon.com/"],
     "image_url": "amazon-com.png",
     "background_color": "#FFF",
     "domain": "amazon.com"
