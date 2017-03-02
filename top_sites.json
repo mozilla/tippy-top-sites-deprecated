@@ -1120,13 +1120,6 @@
     "domain": "target.com"
   },
   {
-    "title": "thedailybeast",
-    "url": "http://www.thedailybeast.com/",
-    "image_url": "thedailybeast-com.png",
-    "background_color": "#f12c15",
-    "domain": "thedailybeast.com"
-  },
-  {
     "title": "theguardian",
     "url": "http://www.theguardian.com/",
     "image_url": "guardian-com.png",
