@@ -1,11 +1,10 @@
 "use strict";
 
-const assert = require("chai").assert;
+const { assert } = require("chai");
 const hexToRgb = require("hex-to-rgb");
 const validator = require("validator");
 const data = require("../top_sites.json");
-const sites = require("../index").sites;
-const getSiteData = require("../index").getSiteData;
+const { getSiteData, sites } = require("../index");
 
 describe("top_sites", () => {
   it("should be an array", () => {
@@ -49,7 +48,7 @@ describe("top_sites", () => {
       it("should have background color as a hex color", () => {
         assert.property(site, "background_color");
         assert.isString(site.background_color);
-        assert.isTrue(validator.isHexColor(site.background_color), `expected ${site.background_color} to be a hex color`)
+        assert.isTrue(validator.isHexColor(site.background_color), `expected ${site.background_color} to be a hex color`);
       });
     });
   });
@@ -61,11 +60,11 @@ describe("sites", () => {
     assert.equal(sites.length, data.length);
   });
 
-  sites.forEach((site, i) => {
+  sites.forEach((site) => {
     it("should have background color as a RGB color", () => {
       assert.property(site, "background_color_rgb");
       assert.isArray(site.background_color_rgb);
-      assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`)
+      assert.deepEqual(site.background_color_rgb, hexToRgb(site.background_color), `expected ${site.background_color} to equal ${site.background_color_rgb}`);
     });
   });
 });

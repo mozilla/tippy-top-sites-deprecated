@@ -217,6 +217,13 @@
     "domain": "capitalone.com"
   },
   {
+    "title": "cbc",
+    "url": "http://www.cbc.ca/",
+    "image_url": "cbc-ca.png",
+    "background_color": "#fff",
+    "domain": "cbc.ca"
+  },
+  {
     "title": "cbsnews",
     "url": "http://www.cbsnews.com/",
     "image_url": "cbsnews-com.png",
@@ -283,14 +290,14 @@
     "title": "dailymail",
     "url": "http://www.dailymail.co.uk/",
     "image_url": "dailymail-co-uk.png",
-    "background_color": "#0064c1",
+    "background_color": "#ffffff",
     "domain": "dailymail.co.uk"
   },
   {
     "title": "dailybeast",
     "url": "https://www.thedailybeast.com/",
     "image_url": "dailybeast-com.png",
-    "background_color": "#f12c15",
+    "background_color": "#f54927",
     "domain": "dailybeast.com"
   },
   {
@@ -611,7 +618,7 @@
   {
     "title": "images.google",
     "url": "https://images.google.com/",
-    "image_url": "images-google-com.png",
+    "image_url": "google-com.png",
     "background_color": "#FFF",
     "domain": "images.google.com"
   },
@@ -1113,17 +1120,10 @@
     "domain": "target.com"
   },
   {
-    "title": "thedailybeast",
-    "url": "http://www.thedailybeast.com/",
-    "image_url": "thedailybeast-com.png",
-    "background_color": "#f12c15",
-    "domain": "thedailybeast.com"
-  },
-  {
     "title": "theguardian",
     "url": "http://www.theguardian.com/",
-    "image_url": "theguardian-com.png",
-    "background_color": "#005E91",
+    "image_url": "guardian-com.png",
+    "background_color": "#00558a",
     "domain": "theguardian.com"
   },
   {
@@ -1279,13 +1279,6 @@
     "image_url": "wellsfargo-com.png",
     "background_color": "#ba1613",
     "domain": "wellsfargo.com"
-  },
-  {
-    "title": "wikia",
-    "url": "http://www.wikia.com/fandom",
-    "image_url": "wikia-com.png",
-    "background_color": "#f1f1f1",
-    "domain": "wikia.com"
   },
   {
     "title": "wikihow",

@@ -1,7 +1,7 @@
 "use strict";
 
 // What is the size of the images, in pixels?
-const IMAGE_SIZE = 128;
+const IMAGE_SIZE = 160;
 
 const hexToRgb = require("hex-to-rgb");
 const urlParse = require("url-parse");
