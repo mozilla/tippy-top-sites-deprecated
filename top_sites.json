@@ -49,6 +49,20 @@
     "domain": "airbnb.com"
   },
   {
+    "title": "aliexpress",
+    "url": "https://www.aliexpress.com/",
+    "image_url": "aliexpress-com.png",
+    "background_color": "#f6050a",
+    "domain": "aliexpress.com"
+  },
+  {
+    "title": "allegro",
+    "url": "https://www.allegro.pl/",
+    "image_url": "allegro-pl.png",
+    "background_color": "#ff4900",
+    "domain": "allegro.pl"
+  },
+  {
     "title": "allrecipes",
     "url": "http://allrecipes.com/",
     "image_url": "allrecipes-com.png",
@@ -112,6 +126,13 @@
     "domain": "att.com"
   },
   {
+    "title": "avito",
+    "url": "https://www.avito.ru/",
+    "image_url": "avito-ru.png",
+    "background_color": "#FFFFFF",
+    "domain": "avito.ru"
+  },
+  {
     "title": "aws.amazon",
     "url": "https://aws.amazon.com/",
     "image_url": "amazonaws-com.png",
@@ -152,6 +173,13 @@
     "image_url": "bing-com.png",
     "background_color": "#138484",
     "domain": "bing.com"
+  },
+  {
+    "title": "bild",
+    "url": "http://www.bild.de/",
+    "image_url": "bild-de.png",
+    "background_color": "#ea0000",
+    "domain": "bild.de"
   },
   {
     "title": "blackboard",
@@ -756,6 +784,13 @@
     "domain": "latimes.com"
   },
   {
+    "title": "leboncoin",
+    "url": "http://www.leboncoin.fr/",
+    "image_url": "leboncoin-fr.png",
+    "background_color": "#ff6000",
+    "domain": "leboncoin.fr"
+  },
+  {
     "title": "lifehacker",
     "url": "http://lifehacker.com/",
     "image_url": "lifehacker-com.png",
@@ -901,6 +936,20 @@
     "image_url": "office-com.png",
     "background_color": "#000",
     "domain": "office.com"
+  },
+  {
+    "title": "ok",
+    "url": "https://www.ok.ru/",
+    "image_url": "ok-ru.png",
+    "background_color": "#fb7b00",
+    "domain": "ok.ru"
+  },
+  {
+    "title": "olx",
+    "url": "https://www.olx.pl/",
+    "image_url": "olx-pl.png",
+    "background_color": "#b7c200",
+    "domain": "olx.pl"
   },
   {
     "title": "online.citi",
@@ -1239,6 +1288,13 @@
     "domain": "vimeo.com"
   },
   {
+    "title": "vk",
+    "url": "https://vk.com/",
+    "image_url": "vk-com.png",
+    "background_color": "#4483be",
+    "domain": "vk.com"
+  },
+  {
     "title": "walmart",
     "url": "http://www.walmart.com/",
     "image_url": "walmart-com.png",
@@ -1328,6 +1384,13 @@
     "image_url": "wunderground-com.png",
     "background_color": "#000000",
     "domain": "wunderground.com"
+  },
+  {
+    "title": "wykop",
+    "url": "https://www.wykop.pl/",
+    "image_url": "wykop-pl.png",
+    "background_color": "#157ead",
+    "domain": "wykop.pl"
   },
   {
     "title": "yahoo",
