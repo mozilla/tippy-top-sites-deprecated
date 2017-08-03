@@ -423,7 +423,7 @@
     "title": "facebook",
     "url": "https://www.facebook.com/",
     "image_url": "facebook-com.png",
-    "background_color": "#3b5998",
+    "background_color": "#eaecee",
     "domain": "facebook.com"
   },
   {
@@ -1410,7 +1410,7 @@
     "title": "youtube",
     "url": "https://www.youtube.com/",
     "image_url": "youtube-com.png",
-    "background_color": "#db4338",
+    "background_color": "#FFFFFF",
     "domain": "youtube.com"
   },
   {
