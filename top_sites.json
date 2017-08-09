@@ -71,7 +71,7 @@
   },
   {
     "title": "amazon",
-    "url": "http://www.amazon.com/",
+    "urls": ["https://www.amazon.ca/", "https://www.amazon.co.uk/", "https://www.amazon.com/", "https://www.amazon.de/", "https://www.amazon.fr/", "https://smile.amazon.com"],
     "image_url": "amazon-com.png",
     "background_color": "#FFF",
     "domain": "amazon.com"
@@ -155,7 +155,7 @@
   },
   {
     "title": "bbc",
-    "url": "http://www.bbc.com/",
+    "urls": ["http://www.bbc.com/", "https://www.bbc.co.uk/"],
     "image_url": "bbc-com.png",
     "background_color": "#000000",
     "domain": "bbc.com"
@@ -386,7 +386,7 @@
   },
   {
     "title": "ebay",
-    "url": "http://www.ebay.com",
+    "urls": ["https://ebay.ca", "https://www.ebay.co.uk/", "https://www.ebay.com", "https://ebay.de"],
     "image_url": "ebay-com.png",
     "background_color": "#ededed",
     "domain": "ebay.com"
