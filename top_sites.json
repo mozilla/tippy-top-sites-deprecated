@@ -203,6 +203,13 @@
     "domain": "blogger.com"
   },
   {
+    "title": "bmo",
+    "url": "https://www.bmo.com",
+    "image_url": "bmo-com.png",
+    "background_color": "#fff",
+    "domain": "bmo.com"
+  },
+  {
     "title": "box",
     "url": "https://www.box.com/",
     "image_url": "box-com.png",
