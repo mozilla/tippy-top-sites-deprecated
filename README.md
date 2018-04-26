@@ -1,3 +1,4 @@
+[Deprecated][Unmaintained]
 # Tippy Top Sites
 
 [![Build Status](https://travis-ci.org/mozilla/tippy-top-sites.svg?branch=master)](https://travis-ci.org/mozilla/tippy-top-sites)
